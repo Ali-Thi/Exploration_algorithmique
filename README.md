@@ -6,7 +6,7 @@
 Ce projet a pour but d'implémenter deux algorithmes de parcours du plus court chemin entre deux sommets d'un graphe : l'algorithme de Dijsktra et celui de Bellman. Pour cela, deux représentations de graphe sont possibles : par matrice d'adjacence ou par liste d'adjacence.
 
 ## Diagramme de classe
-
+![Diagramme de classe](https://user-images.githubusercontent.com/92384347/216792131-37d2bf11-546e-4b40-b359-16a1eb550cd2.png)
 
 ## Entrées - Sorties
 Aucune IHM n'est présente pour le moment. Les fonctions de création et de manipulation d'un graphe sont listées dans l'interface `IGraphe` qui se trouvent dans le package `pCC`.
